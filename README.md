@@ -6,6 +6,12 @@ _A flexible project structure for doing and sharing data science work._
 #### [Project homepage](https://github.com/matgonz/cookiecutter-data-science-project/)
 
 
+### How to use the template
+1. Install the cookiecutter package
+2. Run the command: "cookiecutter https://github.com/matgonz/cookiecutter-data-science-project"
+3. Fill the params on your promp
+4. After all, you will have a repository to start your data science project
+
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5+
