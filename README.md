@@ -9,9 +9,11 @@ _A flexible project structure for doing and sharing data science work._
 ### How to use the template
 1. Install the cookiecutter package
 2. Run the command: "cookiecutter https://github.com/matgonz/cookiecutter-data-science-project"
-3. Fill the params on your promp
+3. Fill the params in your promp
 4. After all, you will have a repository to start your data science project
-
+<br/><br/>
+![Flow chart - How to use cookiecutter with databricks](docs/cookiecutter_template_flowchart_using_databricks.PNG)
+<br/><br/>
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5+
@@ -61,8 +63,12 @@ The directory structure of your new project looks like this:
 │   │   ├── predict_model.py
 │   │   └── train_model.py
 │   │
-│   └── monitoring  <- Scripts to monitoring models in production
-│       └── visualize.py
+│   ├── monitoring  <- Scripts to monitoring models in production
+│   │   └── visualize.py
+│   │
+│   └── utils  <- Scripts with utils functions to help about loading data, feature store, mlflow use
+│       └── feature_store_utils.py
+|
 │
 ```
 
