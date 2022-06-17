@@ -12,7 +12,7 @@ _A flexible project structure for doing and sharing data science work._
 3. Fill the params in your promp
 4. After all, you will have a repository to start your data science project
 <br/><br/>
-![Flow chart - How to use cookiecutter with databricks](docs/cookiecutter_template_flowchart_using_databricks.PNG)
+![Flow chart - How to use cookiecutter with databricks](docs/cookiecutter_template_flowchart_using_databricks.png)
 <br/><br/>
 ### Requirements to use the cookiecutter template:
 -----------
