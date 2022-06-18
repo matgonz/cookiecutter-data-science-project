@@ -1,15 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC # Include configuration notebook
-
-# COMMAND ----------
-
-# MAGIC %run ./configuration
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC # Feature Store Utils
+# MAGIC # Data Access Functions
 # MAGIC 
 # MAGIC **Create Feature Table**
 # MAGIC 
