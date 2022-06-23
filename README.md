@@ -67,8 +67,10 @@ The directory structure of your new project looks like this:
 │   │   └── visualize.py
 │   │
 │   └── utils  <- Scripts with utils functions to help about loading data, feature store, mlflow use
-│       └── feature_store_utils.py
-|
+│   │   └── feature_store_utils.py
+│   │
+│   └── tests
+│
 │
 ```
 

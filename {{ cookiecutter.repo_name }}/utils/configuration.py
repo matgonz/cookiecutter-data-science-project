@@ -3,7 +3,6 @@
 # MAGIC # Imports
 # MAGIC 
 # MAGIC Next steps:
-# MAGIC - Include openpyxl in requirements.txt
 # MAGIC - Set requirements.txt on cluster prebuild
 
 # COMMAND ----------

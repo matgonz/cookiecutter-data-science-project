@@ -24,9 +24,15 @@ Project Organization
 │   │   ├── predict_model.py
 │   │   └── train_model.py
 │   │
-│   └── monitoring  <- Scripts to monitoring models in production
-│       └── visualize.py
+│   ├── monitoring  <- Scripts to monitoring models in production
+│   │   └── visualize.py
+│   │
+│   └── utils  <- Scripts with utils functions to help about loading data, feature store, mlflow use
+│   │   └── feature_store_utils.py
+│   │
+│   └── tests
 │
+│   
 ```
 
 
